@@ -15,5 +15,8 @@
     max-width: 100%;
 }
 p{
-font-size: 25px;
+font-size: 28px;
+}
+ul>li{
+font-size: 27px;
 }
